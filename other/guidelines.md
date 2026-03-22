@@ -30,4 +30,4 @@ Also if your effect gets approved, due to GitHub Caches your effect won't be sho
 
 [server]: https://discord.gg/FGzGgph4Vm
 [database]: https://github.com/SerStars/CustomEffects
-[template]: https://raw.githubusercontent.com/SerStars/CustomEffects/refs/heads/main/others/ProfileEffectTemplate.png
+[template]: https://raw.githubusercontent.com/SerStars/CustomEffects/refs/heads/main/other/ProfileEffectTemplate.png
