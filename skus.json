@@ -1,0 +1,22 @@
+{
+    "1": {
+        "skuId": "1",
+        "config": {
+            "title": "Guiding Light - Roblox Doors",
+            "description": "Let the light guide through your profile...",
+            "reducedMotionSrc": "https://raw.githubusercontent.com/SerStars/CustomEffects/refs/heads/main/assets/presets/DoorsGuidingLight.png",
+            "thumbnailPreviewSrc": "https://raw.githubusercontent.com/SerStars/CustomEffects/refs/heads/main/assets/presets/DoorsGuidingLight.png",
+            "effects": [
+                {
+                    "src": "https://raw.githubusercontent.com/SerStars/CustomEffects/refs/heads/main/assets/presets/DoorsGuidingLight.png",
+                    "loop": true,
+                    "height": 880,
+                    "width": 450,
+                    "duration": 2880,
+                    "start": 0,
+                    "loopDelay": 0
+                }
+            ]
+        }
+    }
+}
