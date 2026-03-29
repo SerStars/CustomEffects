@@ -10,7 +10,9 @@
 
 ## Effect Sizes
 
-Effects are (A)PNG images and GIF that are 450x880. You can use our [template][template] if you need it.
+Effects are (A)PNG images and GIF that are 450x880.
+<br>You can use our [template][template] if you'd like to.
+<br>You can watch [this tutorial][dtacattutorial] on how you can use Discord's Profile Effect Tool.
 
 <!-- Animated effects will be split into 2 files, a PNG of the first frame (thumbnail) and the other being the full animation (loop). -->
 
@@ -31,3 +33,4 @@ Also if your effect gets approved, due to GitHub Caches your effect won't be sho
 [server]: https://discord.gg/FGzGgph4Vm
 [database]: https://github.com/SerStars/CustomEffects
 [template]: https://raw.githubusercontent.com/SerStars/CustomEffects/refs/heads/main/other/ProfileEffectTemplate.png
+[dtacattutorial]: https://www.youtube.com/watch?v=RTV0cgLfM7Q
