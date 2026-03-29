@@ -16,7 +16,7 @@ Effects are (A)PNG images and GIF that are 450x880.
 
 <!-- Animated effects will be split into 2 files, a PNG of the first frame (thumbnail) and the other being the full animation (loop). -->
 
-## Reviewing
+## Review Process
 
 <!-- Requesting an Effect is done inside our [Discord Server](server) -->
 
